@@ -1,5 +1,5 @@
 {
-  "name": "three-ws-guardian",
+  "name": "guardian",
   "owner": {
     "name": "nirholas"
   },
@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-guardian",
-      "source": "./",
+      "source": "./plugins/three-ws-guardian",
       "description": "Classify content and govern autonomous agent actions with IBM Granite Guardian risk scoring, spend caps and a hash-chained audit record.",
+      "category": "development",
       "tags": [
         "safety",
         "guardrails",
