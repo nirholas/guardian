@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-guardian",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Classify content and govern autonomous agent actions with IBM Granite Guardian risk scoring, spend caps and a hash-chained audit record.",
+  "plugins": [
+    {
+      "name": "three-ws-guardian",
+      "source": "./",
+      "description": "Classify content and govern autonomous agent actions with IBM Granite Guardian risk scoring, spend caps and a hash-chained audit record.",
+      "tags": [
+        "safety",
+        "guardrails",
+        "moderation"
+      ]
+    }
+  ]
+}
